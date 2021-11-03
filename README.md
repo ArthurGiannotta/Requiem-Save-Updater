@@ -21,6 +21,8 @@ Also a script to reset only some of the campaign duels in your Yu-Gi-Oh! Legacy 
 
 # Credits
 
-Me - The Scripts on this repository,
-MoonlitDeath - Requiem Mod and Modding Documentation(https://github.com/MoonlitDeath/Link-Evolution-Editing-Guide/wiki),
+Me - The Scripts on this repository
+
+MoonlitDeath - Requiem Mod and Modding Documentation(https://github.com/MoonlitDeath/Link-Evolution-Editing-Guide/wiki)
+
 pixeltris - Some Offsets and Constants (https://github.com/pixeltris/Lotd)
